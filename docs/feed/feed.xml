@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Blog Title</title>
+  <subtitle>This is a longer description about your blog.</subtitle>
+  <link href="https://example.com/feed/feed.xml" rel="self" />
+  <link href="https://example.com/" />
+  <updated>2025-10-04T00:00:00Z</updated>
+  <id>https://example.com/</id>
+  <author>
+    <name>Your Name</name>
+  </author>
+  <entry>
+    <title>Purging Discord</title>
+    <link href="https://example.com/blog/2025-10-05-purging-discord/purging-discord/" />
+    <updated>2025-10-04T00:00:00Z</updated>
+    <id>https://example.com/blog/2025-10-05-purging-discord/purging-discord/</id>
+    <content type="html">&lt;h2 id=&quot;tl-dr-it-sucks-and-takes-forever&quot;&gt;tl;dr - it sucks and takes forever&lt;/h2&gt;
+&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/OJshG6kimB-500.webp&quot; alt=&quot;Tossing discord off a cliff lion king meme&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;500&quot; height=&quot;522&quot;&gt;
+&lt;p&gt;At a startup I worked for called Satellite.im, we used discord for our day-to-day communications and meetings. It was a great tool for the job, and free! It quickly morphed into my go-to tool for business &lt;em&gt;and personal&lt;/em&gt; communication.&lt;/p&gt;
+&lt;p&gt;Lately, as an American we have to be a little... more careful of how we speak. We are in unprecedented times (unprecedented in the United States, at least), and companies and governments have been more emboldened to do whatever they want with, well, everything, so they can make a quick buck at the expense of whomever and whatever they want.&lt;/p&gt;
+&lt;p&gt;It is highly likely that there is no way to go back and clean up old data that has been sucked into the machine at Discord, so I have to consider all that data gone, used for whatever. The only real solution is to not use it going foward.&lt;/p&gt;
+&lt;p&gt;But I am still going to try to delete the old messages.&lt;/p&gt;
+&lt;p&gt;As of now, Discord doesn&#39;t allow most (any?) users the ability to bulk delete data. I am also not even sure they really delete the data. &lt;a href=&quot;https://www.reddit.com/r/discordapp/comments/15k3czv/comment/jv3dqke/?context=99&quot;&gt;this post&lt;/a&gt; from August 6th, 2023 on Reddit by an alleged former employee indicates that they do in fact delete your messages as long as it&#39;s not something that was reported, in which case a copy gets sent along with the report.&lt;/p&gt;
+&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/wVVPFsRVbL-1444.webp&quot; alt=&quot;Reddit post saying discord doesn&#39;t tombstone your data&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1444&quot; height=&quot;380&quot;&gt;
+&lt;p&gt;So we are going to have to do this the old fashioned way.&lt;/p&gt;
+&lt;p&gt;So here is how I am doing it:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Acquire a chromium browser. I already had Brave installed to test things I need to do in a blink based browser&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&quot;https://chromewebstore.google.com/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj?hl=en-US&quot;&gt;Discrub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Log in to discord in the browser&lt;/li&gt;
+&lt;li&gt;Start purging.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Menu &amp;gt; Direct Messages &amp;gt; Pick someone &amp;gt; Purge Button&lt;/p&gt;
+&lt;p&gt;Select yourself from the user dropdown.&lt;/p&gt;
+&lt;p&gt;Change any other settings you want (I changed the Modify Delay Seconds to 1) and hit Purge.&lt;/p&gt;
+&lt;p&gt;Then you can go on vacation because it iterates through the channel you set and deletes your messages 1 by 1. I am just kidding, don&#39;t go on vacation, but it could take weeks running in a tab, and will need to be checked in a few times a day in case it stops.&lt;/p&gt;
+&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/2bmeuyOBxI-1050.webp&quot; alt=&quot;Discrub tool working through a big direct message&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1050&quot; height=&quot;932&quot;&gt;</content>
+  </entry>
+</feed>
