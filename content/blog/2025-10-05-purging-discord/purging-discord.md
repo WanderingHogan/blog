@@ -12,7 +12,7 @@ tags: tech, privacy
 
 At a startup I worked for called Satellite.im, we used discord for our day-to-day communications and meetings. It was a great tool for the job, and free! It quickly morphed into my go-to tool for business _and personal_ communication. 
 
-Lately, as an American we have to be a little... more careful of how we speak. We are in unprecedented times (unprecedented in the United States, at least), and companies and governments have been more emboldened to do whatever they want with, well, everything, so they can make a quick buck at the expense of whomever and whatever they want.
+Lately, as an American we have to be a little... more careful of how we speak. We are in unprecedented times (unprecedented in the United States, at least).
 
 It is highly likely that there is no way to go back and clean up old data that has been sucked into the machine at Discord, so I have to consider all that data gone, used for whatever. The only real solution is to not use it going foward.
 
