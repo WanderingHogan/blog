@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Tagged &#39; privacy&#39;</title>
-		<meta name="description" content="Just writing for fun. Topics most likely are bikes, tech, and adventures.">
+		<title>My Urban Arrow</title>
+		<meta name="description" content="An ode to our bike">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Chris Hogan Blog">
 		
 		
@@ -306,6 +306,174 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
 }</style>
 		
 	</head>
@@ -329,19 +497,31 @@ header {
 		<main id="main">
 			<heading-anchors>
 				
-<h1 id="tagged-privacy">Tagged “ privacy”</h1>
 
 
-<ol reversed="" class="postlist" style="--postlist-index: 2">
-	<li class="postlist-item">
-		<a href="/blog/2025-10-05-purging-discord/purging-discord/" class="postlist-link">Purging Discord</a>
-		<time class="postlist-date" datetime="2025-10-04">October 2025</time>
-	</li>
-</ol>
+<h1 id="my-urban-arrow">My Urban Arrow</h1>
 
+<ul class="post-metadata">
+	<li><time datetime="2025-10-04">04 October 2025</time></li>
+	<li><a href="/tags/bikes/" class="post-tag">bikes</a></li>
+</ul>
 
-<p>See <a href="/tags/">all tags</a>.</p>
+<h2 id="i-love-this-thing-we-love-this-thing">I love this thing. WE love this thing. </h2>
+<p>It's heavy, but it's easy to get used to. I tell everyone &quot;riding it is like the first time you drive a full size truck - it's a little floaty but easy to get comfortable with&quot;. I have no problem with it, and my wife who is a foot shorter and 50% my weight got comfortable with it, quick, too.</p>
+<img src="/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-rain.webp&width=1920&format=webp&via=transform" alt="Bike in the raid with the cover" loading="lazy" decoding="async" width="1920" height="1080">
+<h2 id="its-a-school-bus">It's a school bus.</h2>
+<p>Every day we take it to school and listen to the bluey playlist on deezer and point and talk and my older son gets to decide how we get places and what we stop to look at.</p>
+<img src="/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-boys.webp&width=1920&format=webp&via=transform" alt="Boys in the bike" loading="lazy" decoding="async" width="1920" height="1080">
+<h2 id="its-a-truck">It's a truck.</h2>
+Home depot runs are a breeze. For day to day things, from a toilet, to enough lumber to make a solar panel mount on the side of the house, to a few dozen paver caps or a bag of cement and some 4x4's, the bike handles it all well.
+<img src="/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-toilet.webp&width=1920&format=webp&via=transform" alt="Hauling a toilet" loading="lazy" decoding="async" width="1920" height="1080">
+<p>It's just a party cruiser to eat ice cream and watch the sunset.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3mke-CKOWGw?si=5xyV4IHwHdofWF2m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<p>I got it from <a href="https://frontrangecargobikes.com/">front range cargo bikes</a>. They were fantastic. We haven't pared down to just a single car yet, but I almost never drive anymore.</p>
+<p>Every ride, whether it's raining, sunny, or snowing, is fun and puts me in a better mood no matter what else is happening. I can see myself in a future where I don't have a car, but I can't see a life without a fun cargo bike.</p>
 
+<ul class="links-nextprev"><li class="links-nextprev-next">Next →<br><a href="/blog/2025-10-05-purging-discord/purging-discord/">Purging Discord</a></li>
+</ul>
 
 			</heading-anchors>
 		</main>
@@ -352,7 +532,7 @@ header {
 			</p>
 		</footer>
 
-		<!-- This page `/tags/privacy/` was built on 2025-10-06T03:43:42.413Z -->
+		<!-- This page `/blog/2025-10-04-my-urban-arrow/my-urban-arrow/` was built on 2025-10-06T03:43:42.400Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

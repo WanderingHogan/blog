@@ -2,7 +2,7 @@
 title:  "My Urban Arrow"
 date:   2025-10-04
 description: "An ode to our bike"
-draft: true
+draft: false
 categories: bikes
 tags: bikes
 ---
@@ -21,10 +21,9 @@ Home depot runs are a breeze. For day to day things, from a toilet, to enough lu
 <img src="./ua-toilet.webp" alt="Hauling a toilet">
 
 It's just a party cruiser to eat ice cream and watch the sunset.
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3mke-CKOWGw?si=5xyV4IHwHdofWF2m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 I got it from [front range cargo bikes](https://frontrangecargobikes.com/). They were fantastic. We haven't pared down to just a single car yet, but I almost never drive anymore.
+
+Every ride, whether it's raining, sunny, or snowing, is fun and puts me in a better mood no matter what else is happening. I can see myself in a future where I don't have a car, but I can't see a life without a fun cargo bike.
