@@ -5,24 +5,44 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-10-04T00:00:00Z</updated>
+  <updated>2025-10-05T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>My Urban Arrow</title>
+    <link href="https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/" />
+    <updated>2025-10-05T00:00:00Z</updated>
+    <id>https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/</id>
+    <content type="html">&lt;h2 id=&quot;i-love-this-thing-we-love-this-thing&quot;&gt;I love this thing. WE love this thing. &lt;/h2&gt;
+&lt;p&gt;It&#39;s heavy, but it&#39;s easy to get used to. I tell everyone &amp;quot;riding it is like the first time you drive a full size truck - it&#39;s a little floaty but easy to get comfortable with&amp;quot;. I have no problem with it, and my wife who is a foot shorter and 50% my weight got comfortable with it, quick, too.&lt;/p&gt;
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-rain.webp&amp;width=1920&amp;format=webp&amp;via=transform&quot; alt=&quot;Bike in the raid with the cover&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
+&lt;h2 id=&quot;its-a-school-bus&quot;&gt;It&#39;s a school bus.&lt;/h2&gt;
+&lt;p&gt;Every day we take it to school and listen to the bluey playlist on deezer and point and talk and my older son gets to decide how we get places and what we stop to look at.&lt;/p&gt;
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-boys.webp&amp;width=1920&amp;format=webp&amp;via=transform&quot; alt=&quot;Boys in the bike&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
+&lt;h2 id=&quot;its-a-truck&quot;&gt;It&#39;s a truck.&lt;/h2&gt;
+Home depot runs are a breeze. For day to day things, from a toilet, to enough lumber to make a solar panel mount on the side of the house, to a few dozen paver caps or a bag of cement and some 4x4&#39;s, the bike handles it all well.
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-04-my-urban-arrow%2Fua-toilet.webp&amp;width=1920&amp;format=webp&amp;via=transform&quot; alt=&quot;Hauling a toilet&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
+&lt;p&gt;It&#39;s just a party cruiser to eat ice cream and watch the sunset.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3mke-CKOWGw?si=5xyV4IHwHdofWF2m&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;I got it from &lt;a href=&quot;https://frontrangecargobikes.com/&quot;&gt;front range cargo bikes&lt;/a&gt;. They were fantastic. We haven&#39;t pared down to just a single car yet, but I almost never drive anymore.&lt;/p&gt;
+&lt;p&gt;Every ride, whether it&#39;s raining, sunny, or snowing, is fun and puts me in a better mood no matter what else is happening. I can see myself in a future where I don&#39;t have a car, but I can&#39;t see a life without a fun cargo bike.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Purging Discord</title>
     <link href="https://example.com/blog/2025-10-05-purging-discord/purging-discord/" />
     <updated>2025-10-04T00:00:00Z</updated>
     <id>https://example.com/blog/2025-10-05-purging-discord/purging-discord/</id>
     <content type="html">&lt;h2 id=&quot;tl-dr-it-sucks-and-takes-forever&quot;&gt;tl;dr - it sucks and takes forever&lt;/h2&gt;
-&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/OJshG6kimB-500.webp&quot; alt=&quot;Tossing discord off a cliff lion king meme&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;500&quot; height=&quot;522&quot;&gt;
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-05-purging-discord%2Fyeet-discord.webp&amp;width=500&amp;format=webp&amp;via=transform&quot; alt=&quot;Tossing discord off a cliff lion king meme&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;500&quot; height=&quot;522&quot;&gt;
 &lt;p&gt;At a startup I worked for called Satellite.im, we used discord for our day-to-day communications and meetings. It was a great tool for the job, and free! It quickly morphed into my go-to tool for business &lt;em&gt;and personal&lt;/em&gt; communication.&lt;/p&gt;
 &lt;p&gt;Lately, as an American we have to be a little... more careful of how we speak. We are in unprecedented times (unprecedented in the United States, at least).&lt;/p&gt;
 &lt;p&gt;It is highly likely that there is no way to go back and clean up old data that has been sucked into the machine at Discord, so I have to consider all that data gone, used for whatever. The only real solution is to not use it going foward.&lt;/p&gt;
 &lt;p&gt;But I am still going to try to delete the old messages.&lt;/p&gt;
 &lt;p&gt;As of now, Discord doesn&#39;t allow most (any?) users the ability to bulk delete data. I am also not even sure they really delete the data. &lt;a href=&quot;https://www.reddit.com/r/discordapp/comments/15k3czv/comment/jv3dqke/?context=99&quot;&gt;this post&lt;/a&gt; from August 6th, 2023 on Reddit by an alleged former employee indicates that they do in fact delete your messages as long as it&#39;s not something that was reported, in which case a copy gets sent along with the report.&lt;/p&gt;
-&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/wVVPFsRVbL-1444.webp&quot; alt=&quot;Reddit post saying discord doesn&#39;t tombstone your data&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1444&quot; height=&quot;380&quot;&gt;
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-05-purging-discord%2Fdiscord-data.webp&amp;width=1444&amp;format=webp&amp;via=transform&quot; alt=&quot;Reddit post saying discord doesn&#39;t tombstone your data&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1444&quot; height=&quot;380&quot;&gt;
 &lt;p&gt;So we are going to have to do this the old fashioned way.&lt;/p&gt;
 &lt;p&gt;So here is how I am doing it:&lt;/p&gt;
 &lt;ol&gt;
@@ -35,26 +55,6 @@
 &lt;p&gt;Select yourself from the user dropdown.&lt;/p&gt;
 &lt;p&gt;Change any other settings you want (I changed the Modify Delay Seconds to 1) and hit Purge.&lt;/p&gt;
 &lt;p&gt;Then you can go on vacation because it iterates through the channel you set and deletes your messages 1 by 1. I am just kidding, don&#39;t go on vacation, but it could take weeks running in a tab, and will need to be checked in a few times a day in case it stops.&lt;/p&gt;
-&lt;img src=&quot;https://example.com/blog/2025-10-05-purging-discord/purging-discord/2bmeuyOBxI-1050.webp&quot; alt=&quot;Discrub tool working through a big direct message&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1050&quot; height=&quot;932&quot;&gt;</content>
-  </entry>
-  <entry>
-    <title>My Urban Arrow</title>
-    <link href="https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/" />
-    <updated>2025-10-04T00:00:00Z</updated>
-    <id>https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/</id>
-    <content type="html">&lt;h2 id=&quot;i-love-this-thing-we-love-this-thing&quot;&gt;I love this thing. WE love this thing. &lt;/h2&gt;
-&lt;p&gt;It&#39;s heavy, but it&#39;s easy to get used to. I tell everyone &amp;quot;riding it is like the first time you drive a full size truck - it&#39;s a little floaty but easy to get comfortable with&amp;quot;. I have no problem with it, and my wife who is a foot shorter and 50% my weight got comfortable with it, quick, too.&lt;/p&gt;
-&lt;img src=&quot;https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/_8isp_83hQ-1920.webp&quot; alt=&quot;Bike in the raid with the cover&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
-&lt;h2 id=&quot;its-a-school-bus&quot;&gt;It&#39;s a school bus.&lt;/h2&gt;
-&lt;p&gt;Every day we take it to school and listen to the bluey playlist on deezer and point and talk and my older son gets to decide how we get places and what we stop to look at.&lt;/p&gt;
-&lt;img src=&quot;https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/gAnzY6mGgo-1920.webp&quot; alt=&quot;Boys in the bike&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
-&lt;h2 id=&quot;its-a-truck&quot;&gt;It&#39;s a truck.&lt;/h2&gt;
-Home depot runs are a breeze. For day to day things, from a toilet, to enough lumber to make a solar panel mount on the side of the house, to a few dozen paver caps or a bag of cement and some 4x4&#39;s, the bike handles it all well.
-&lt;img src=&quot;https://example.com/blog/2025-10-04-my-urban-arrow/my-urban-arrow/RxrXm648eF-1920.webp&quot; alt=&quot;Hauling a toilet&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1920&quot; height=&quot;1080&quot;&gt;
-&lt;p&gt;It&#39;s just a party cruiser to eat ice cream and watch the sunset.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3mke-CKOWGw?si=5xyV4IHwHdofWF2m&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;I got it from &lt;a href=&quot;https://frontrangecargobikes.com/&quot;&gt;front range cargo bikes&lt;/a&gt;. They were fantastic. We haven&#39;t pared down to just a single car yet, but I almost never drive anymore.&lt;/p&gt;
-&lt;p&gt;Every ride, whether it&#39;s raining, sunny, or snowing, is fun and puts me in a better mood no matter what else is happening. I can see myself in a future where I don&#39;t have a car, but I can&#39;t see a life without a fun cargo bike.&lt;/p&gt;
-</content>
+&lt;img src=&quot;https://example.com/.11ty/image/?src=content%2Fblog%2F2025-10-05-purging-discord%2Fdiscrub.webp&amp;width=1050&amp;format=webp&amp;via=transform&quot; alt=&quot;Discrub tool working through a big direct message&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1050&quot; height=&quot;932&quot;&gt;</content>
   </entry>
 </feed>

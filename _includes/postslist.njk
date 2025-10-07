@@ -1,8 +1,25 @@
 <ol reversed class="postlist" style="--postlist-index: {{ (postslistCounter or postslist.length) + 1 }}">
 {%- for post in postslist | reverse %}
-	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
-	</li>
+  <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <div class="postlist-row">
+      <a href="{{ post.url }}" class="postlist-link">
+        {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+      </a>
+
+      {% set categories = post.data.categories | csv %}
+      {% if categories.length %}
+        <ul class="pills" aria-label="Categories">
+          {% for cat in categories %}
+            <li class="pill">
+              <a class="pill__link" href="/categories/{{ cat | slugify }}/">{{ cat }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">
+      {{ post.date | readableDate("dd LLLL yyyy") }}
+    </time>
+  </li>
 {%- endfor %}
 </ol>

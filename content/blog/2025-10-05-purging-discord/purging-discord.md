@@ -3,7 +3,7 @@ title:  "Purging Discord"
 date:   2025-10-04
 description: "Purging Discord data"
 draft: false
-categories: tech
+categories: tech, privacy
 tags: tech, privacy
 ---
 <h2>tl;dr - it sucks and takes forever</h2>

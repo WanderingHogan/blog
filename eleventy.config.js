@@ -19,6 +19,14 @@ export default async function(eleventyConfig) {
 		}
 	});
 
+	eleventyConfig.addFilter("csv", (value, sep = ",") => {
+		if (Array.isArray(value)) return value;
+		if (typeof value !== "string") return [];
+		return value
+		.split(sep)
+		.map(s => s.trim())
+		.filter(Boolean);
+	});
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig

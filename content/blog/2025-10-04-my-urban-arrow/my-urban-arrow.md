@@ -1,6 +1,6 @@
 ---
 title:  "My Urban Arrow"
-date:   2025-10-04
+date:   2025-10-05
 description: "An ode to our bike"
 draft: false
 categories: bikes
